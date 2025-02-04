@@ -383,8 +383,15 @@ def welcome_rules(message):
     response = f'''{user_name} Please Follow These Rules ⚠️:
 
 1. Dont Run Too Many Attacks !! Cause A Ban From Bot
+
+
+
 2. Dont Run 2 Attacks At Same Time Becz If U Then U Got Banned From Bot.
-3. MAKE SURE YOU JOINED https://t.me/venomcha7 OTHERWISE NOT WORK
+
+
+3. MAKE SURE YOU JOINED https://t.me/+OcyU6mJB3ys5NmY1 OTHERWISE NOT WORK
+
+
 4. We Daily Checks The Logs So Follow these rules to avoid Ban!!'''
     bot.reply_to(message, response)
 
